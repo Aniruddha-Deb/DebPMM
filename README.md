@@ -1,40 +1,40 @@
 # DebPMM
 
-##Background
+## Background
 This document came about as a result of an inter-school quiz. I was one of the 
 pivotal members of the organising committee and was in charge of creating the 
 buzzer. The process of creation of the buzzer, and as a whole, the organisation 
 of the quiz, led to the creation of this methodology.
 
-##Project stages: 
+## Project stages: 
 Each project has 5 stages, which are as follows:
-###Initialization:
-    Listing down of
-    * Objective
-    * Product Description
-    * Title
-    * Target market
-    * Market research
+### Initialization:
+Listing down of
+* Objective
+* Product Description
+* Title
+* Target market
+* Market research
 
-###Planning:
-    * Bill of materials
-    * Implementation plan
-    * Project schematic
-    * <software> Architecture plan
+### Planning:
+* Bill of materials
+* Implementation plan
+* Project schematic
+* <software> Architecture plan
 
-###Implementation:
-    * Material sourcing
-    * Assembly
-    * Testing
+### Implementation:
+* Material sourcing
+* Assembly
+* Testing
 
-###Maintenance
-    * Identifying bugs and fixing them
-    * User request changes
-    * Pushing security + usability improvements
+### Maintenance
+* Identifying bugs and fixing them
+* User request changes
+* Pushing security + usability improvements
 
-###Closure
-    * Project conclusion
-    * Project takeaways
+### Closure
+* Project conclusion
+* Project takeaways
 
 ## Project structure on disk
 ```
